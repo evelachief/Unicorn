@@ -1,0 +1,2 @@
+#!/bin/bash
+sleep 2 && echo "Calculating its location..." && sleep 5 && echo "Coordinates: 51.6375°N, 10.4041°E"

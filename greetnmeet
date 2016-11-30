@@ -1,0 +1,2 @@
+#!/bin/bash
+sleep 2 && cat ./hidden/756e69636f726e.log

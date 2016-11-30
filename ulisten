@@ -1,0 +1,2 @@
+#!/bin/bash
+sleep 2 && echo "Searching the world for a unicorn heartbeat. This might take a few minutes." && sleep 10 && echo "We found a heartbeat. Start printing..." && IFS=''; while read line; do printf "$line\n" && sleep 2; done < ./hidden/686561727462656174.log
